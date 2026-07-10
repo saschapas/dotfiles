@@ -14,3 +14,6 @@ The videos I used:
 Additionally several dependencies have to be installed on your system, like e.g. python, node.js etc.
 
 GLHF :)
+
+### EDIT:
+Several things have to be made additionally to make kitty run on a raspy, I will add that soon.
